@@ -8,18 +8,24 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Contents
 
-- [Automation and Robotics](#automation-and-robotics)
-- [Calculators](#calculators)
-- [Climate, Environment and Weather](#climate-environment-and-weather)
-- [Crop Modeling, Phenotyping, and Pathology](#crop-modeling-phenotyping-and-pathology)
-- [Datasets](#datasets)
-- [Data Standardization, Interoperability and APIs](#data-standardization-interoperability-and-apis)
-- [Farm Management Systems and Record Keeping](#farm-management-systems-and-record-keeping)
-- [Geospatial and GIS](#geospatial-and-gis)
-- [IoT, Hardware](#iot-hardware)
-- [Knowledgebases and Learning Resources](#knowledgebases-and-learning-resources)
-- [Machine Learning and AI](#machine-learning-and-ai)
-- [Remote Sensing and Imagery](#remote-sensing-and-imagery)
+- [Awesome Agriculture ![Awesome](https://awesome.re)](#awesome-agriculture-)
+  - [Contents](#contents)
+  - [Automation and Robotics](#automation-and-robotics)
+  - [Calculators](#calculators)
+  - [Climate, Environment and Weather](#climate-environment-and-weather)
+  - [Crop Modeling, Phenotyping, and Pathology](#crop-modeling-phenotyping-and-pathology)
+  - [Datasets,](#datasets)
+  - [Data Standardization, Interoperability and APIs](#data-standardization-interoperability-and-apis)
+  - [Farm Management Systems and Record Keeping](#farm-management-systems-and-record-keeping)
+  - [Geospatial and GIS](#geospatial-and-gis)
+    - [GIS Resources](#gis-resources)
+    - [GIS Platforms](#gis-platforms)
+    - [Shapefiles](#shapefiles)
+  - [IoT, Hardware](#iot-hardware)
+  - [Knowledgebases and Learning Resources](#knowledgebases-and-learning-resources)
+  - [Machine Learning and AI](#machine-learning-and-ai)
+  - [Remote Sensing and Imagery](#remote-sensing-and-imagery)
+  - [License](#license)
 
 ## Automation and Robotics
 
@@ -121,7 +127,7 @@ Contributions welcome! Please follow the [contributing guidelines](https://githu
 
 ## Remote Sensing and Imagery
 
-- [Awesome Sentinel](https://github.com/Fernerkundung/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
+- [Awesome Sentinel](https://github.com/kr-stn/awesome-sentinel) - A curated list of awesome tools, tutorials and APIs related to data from the Copernicus Sentinel Satellites.
 - [Raster Vision](https://github.com/azavea/raster-vision) - Deep learning for aerial/satellite imagery.
 - [Sen2Agri](https://github.com/Sen2Agri/Sen2Agri-System) - Software system processing high resolution satellite images for agricultural purposes.
 - [Awesome Vegetation Index](https://github.com/px39n/Awesome-Vegetation-Index) - List of reference, applications of common Vegetation Indices for Multi-spectral, hyper-spectral and UAV images.
